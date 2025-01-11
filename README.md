@@ -1,10 +1,3 @@
-# Android device tree for Vortex HD65 (HD65)
-
-```
-#
-# Copyright (C) 2024 The Android Open Source Project
-# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+# Vortex HD65 TWRP
+ there were a lot of people who wanted to root their phone
+  + give them what they want

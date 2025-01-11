@@ -1,5 +1,5 @@
 os: linux
-dist: bionic
+dist: bionic  
 language: generic
 sudo: required
 git:
